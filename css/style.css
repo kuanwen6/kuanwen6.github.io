@@ -1,0 +1,89 @@
+body,
+div{
+  padding:0;
+  margin:0;
+}
+
+#header {
+  background-color: #455A64;
+  padding: 2.5% 5%;
+  margin:0;
+}
+
+#selfP{
+  height:200px;
+  width:200px;
+  float: left;
+  margin: 0 auto;
+}
+
+#header img{
+  margin-top: 20px;
+}
+
+.intro{
+  margin: 0 auto;
+  margin-left:20px;
+  float: left;
+}
+
+.intro h1{
+  margin: 0 0 20px 0;
+  font-family:Verdana;
+  font-size: 36px;
+  color: white;
+}
+
+.ch{
+  font-family: Microsoft JhengHei;
+}
+
+li{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Sans-serif;
+  margin-bottom: 8px;
+}
+
+.hello{
+    color:white;
+    margin-top:25px;
+    font-family: Cursive;
+    text-align: right;
+}
+
+#Experience,#projects,#introduction,#work{
+  padding: 1%;
+  font-family:Sans-serif;
+}
+
+#Experience table{
+  margin-left:8%;
+  text-align: center;
+  font-family: Microsoft JhengHei;
+}
+
+#pro1,#pro2,#ex,.introText{
+  margin-left:8%;
+  font-family: Microsoft JhengHei;
+}
+
+#projects img{
+  margin: 20px 0 15px 0;
+}
+
+#thank{
+  background-color: #455A64;
+  text-align: center;
+  font-family:Cursive;
+  padding: 1%;
+  color: #FFA000;
+}
+
+.light-g{
+  color:#aeaba7;
+}
+
+.background-c{
+  background-color: #f0ffff;
+}
