@@ -8734,6 +8734,15 @@ textarea.form-control {
   border: 1.5px black solid;
 }
 
+.text-left {
+  text-align: left !important;
+}
+
+.education-description {
+  display: block;
+  margin-top: 1em;
+}
+
 @-webkit-keyframes loader-rotate {
   100% {
     -webkit-transform: rotate(360deg);
