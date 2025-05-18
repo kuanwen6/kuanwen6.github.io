@@ -8743,6 +8743,22 @@ textarea.form-control {
   margin-top: 1em;
 }
 
+.experience-description {
+  display: block;
+  margin-bottom: 1em;
+}
+
+ul.dash {
+  list-style-type: none;
+}
+ul.dash > li {
+  text-indent: -10px;
+}
+ul.dash > li:before {
+  content: "-";
+  text-indent: -10px;
+}
+
 @-webkit-keyframes loader-rotate {
   100% {
     -webkit-transform: rotate(360deg);
